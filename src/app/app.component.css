@@ -1,0 +1,30 @@
+.header-part, .footer-part, .content-part {
+    border: 2px solid grey;
+    margin: auto;
+}
+
+.header-part {
+    padding-top: 2vh;
+}
+
+.footer-part {
+    padding-bottom: 2vh;    
+}
+
+.content-part {
+    min-height: 60vh;
+}
+
+.footer-soical img {
+    max-width: 50px;
+    max-height: 50px;
+}
+
+.footer-logo img {
+    max-width: 100px;
+    max-height: 50px;   
+}
+
+.footer-social div {
+    border: 1px solid black;
+}
