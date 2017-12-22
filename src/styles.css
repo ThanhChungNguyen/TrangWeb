@@ -1,1 +1,11 @@
 /* You can add global styles to this file, and also import other style files */
+.app-container {
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+}
+
+.footer-part {
+    position: absolute;
+    bottom: 0;
+}
